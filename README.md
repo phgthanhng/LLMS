@@ -1,1 +1,1 @@
-A Live Library Machine System
+A Limited Library Management System (LLMS)
